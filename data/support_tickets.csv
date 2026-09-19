@@ -1,0 +1,16 @@
+ticket_text,priority_label
+Login failed repeatedly and I cannot access my account.,High
+My payment was deducted but the order was not created.,High
+The app crashes whenever I try to upload a document.,High
+I forgot my password. Please tell me how to reset it.,Medium
+How can I change the email address on my account?,Medium
+Where can I see my previous orders?,Low
+Can you tell me the supported file formats?,Low
+I have been charged twice for the same order.,High
+The verification code is not arriving.,Medium
+How do I update my profile picture?,Low
+My account is locked after several attempts.,High
+How can I download my invoice?,Low
+The website is very slow when opening the dashboard.,Medium
+I need instructions for changing my phone number.,Medium
+Where can I find the terms and conditions?,Low
